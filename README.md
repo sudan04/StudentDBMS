@@ -21,3 +21,5 @@ The list of students will be displayed in the application interface.
 Project Structure
 program.java: Main class containing the GUI implementation.
 DBMS.java: Class for managing database operations.
+
+
